@@ -16,7 +16,7 @@ import os
 # Load the trained model
 torch.cuda.set_device(0)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model = YOLO(r'D:\ALIOUNE\THESEPARIS\SOFTWARE\ZebChipSort\intersectionPoint\best.pt', task='detect')  # Adjust the path to your trained model
+model = YOLO(r'your link for the best.pt', task='detect')  # Adjust the path to your trained model
 model.to(device=device)
 
 def detect_edges_yolov8(frame):
