@@ -1,6 +1,6 @@
-# ZEBAPP
+# OnChip Sorting Of Zebrafish Embryos
 
-ZEBAPP is a Python-based application designed for object detection and control tasks. It integrates YOLO model-based object detection, real-time video processing, and Arduino communication for controlling devices such as pumps.
+This is a Python-based application designed for object detection and control tasks. It integrates YOLO model-based object detection, real-time video processing, and Arduino communication for controlling devices such as pumps.
 
 ---
 
@@ -32,6 +32,8 @@ pip install ultralytics matplotlib ttkbootstrap pillow opencv-python torch pyser
 ---
 
 ## **Setup**
+### 1. Intersection_point
+First use the Intersection_point code to detect the Intersection_point of the microfluidic and ensure not to move the chip for all the process.
 
 ### 1. YOLO Model
 Ensure you have a YOLO model file ready for object detection. Update the model path in the script:
@@ -100,6 +102,4 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ---
 
-## **License**
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
