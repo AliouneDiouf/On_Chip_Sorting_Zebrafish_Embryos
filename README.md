@@ -2,6 +2,9 @@
 
 This is a Python-based application designed for object detection and control tasks. It integrates YOLO model-based object detection, real-time video processing, and Arduino communication for controlling devices such as pumps.
 
+### Home Screen
+![Home Screen](screenshots/mainpage.png)
+
 ---
 
 ## **Features**
@@ -103,13 +106,11 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ---
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/home.png)
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+![Login Screen](screenshots/checkpump.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/testpage.png)
 
 
