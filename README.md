@@ -70,10 +70,10 @@ Place the following icons in a folder named `icons` at the same directory level 
 ## **Usage**
 
 ### Run the Application
-Save the script as `zebapp.py` and start the app using:
+Save the script as `OnChipApp.py` and start the app using:
 
 ```bash
-python zebapp.py
+python OnChipApp.py
 ```
 
 ### Explore Features
@@ -90,7 +90,7 @@ python zebapp.py
 1. Launch the application:
 
 ```bash
-python zebapp.py
+python OnChipApp.py
 ```
 
 2. Navigate to the **Test Model** tab to load an image and analyze object detection results.
