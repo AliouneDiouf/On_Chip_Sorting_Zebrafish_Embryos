@@ -101,5 +101,15 @@ python zebapp.py
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
 ---
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.png)
+
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 
