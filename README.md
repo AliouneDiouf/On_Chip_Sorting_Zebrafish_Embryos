@@ -38,7 +38,7 @@ pip install ultralytics matplotlib ttkbootstrap pillow opencv-python torch pyser
 ### 1. Intersection_point
 First use the Find_Intersection_Point.py code to detect the Intersection_point of the microfluidic and ensure not to move the chip for all the process.
 ### Intersection Screen
-![Login Screen](screenshots/chipIntersecrtion.png)
+![Login Screen](screenshots/chipIntersection.png)
 The process of detecting and analyzing features in the microfluidic chip. a Basic frame. b Edges detection and segmentation. c Lines detection using Hough transform. d Averaged lines and cluster steps using the DBSCAN algorithm. e Filtered lines. f Computed intersection lines and center of mass (Intersection point).
 
 ### 1. YOLO Model
